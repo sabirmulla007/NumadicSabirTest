@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T05:14:34Z" name="SuiteTestCasesNumadics" finished-at="2023-01-17T05:15:09Z" duration-ms="35220">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T05:14:34Z" name="Test" finished-at="2023-01-17T05:15:09Z" duration-ms="35220">
+      <class name="testCases.TestCaseQAEnggPage">
+        <test-method signature="qaEngineerPageValidations()[pri:0, instance:testCases.TestCaseQAEnggPage@413f69cc]" started-at="2023-01-17T10:44:55Z" name="qaEngineerPageValidations" finished-at="2023-01-17T10:45:09Z" duration-ms="14380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qaEngineerPageValidations -->
+      </class> <!-- testCases.TestCaseQAEnggPage -->
+      <class name="testCases.TestcasesCareerpage">
+        <test-method signature="verifyHeadertext()[pri:0, instance:testCases.TestcasesCareerpage@be68757]" started-at="2023-01-17T10:44:34Z" name="verifyHeadertext" finished-at="2023-01-17T10:44:55Z" duration-ms="20811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeadertext -->
+      </class> <!-- testCases.TestcasesCareerpage -->
+    </test> <!-- Test -->
+  </suite> <!-- SuiteTestCasesNumadics -->
+</testng-results>
